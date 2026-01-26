@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Binary Search
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
