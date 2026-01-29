@@ -49,6 +49,7 @@
 | ------- |
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -96,6 +97,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -113,4 +115,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
