@@ -27,6 +27,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
+| [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
