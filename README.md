@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1200-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
