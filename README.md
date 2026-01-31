@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1200-minimum-absolute-difference) |
@@ -66,6 +67,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0605-can-place-flowers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
