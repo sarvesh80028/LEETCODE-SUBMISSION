@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0605-can-place-flowers) |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
