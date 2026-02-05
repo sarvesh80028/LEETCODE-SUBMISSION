@@ -4,7 +4,7 @@ class Solution {
         int x = 0;
         int y = 0;
         if(nums[0]>nums[1]) return false;
-        if(n==3 && nums[0]<nums[1] && nums[1]<nums[2]) return false;
+        if(n==3) return false;
         for(int i=0;i<n-1;i++){
             if(nums[i]==nums[i+1]) return false;
         }
