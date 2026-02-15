@@ -152,4 +152,8 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
