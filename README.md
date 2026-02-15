@@ -133,6 +133,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0283-move-zeroes) |
@@ -155,5 +156,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
