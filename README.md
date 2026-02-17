@@ -144,6 +144,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0283-move-zeroes) |
@@ -170,5 +171,6 @@
 | [0021-merge-two-sorted-lists](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
