@@ -173,4 +173,5 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
