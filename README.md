@@ -26,6 +26,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3637-trionic-array-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3637-trionic-array-i) |
 ## String
@@ -46,6 +47,7 @@
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +157,7 @@
 | [0283-move-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0680-valid-palindrome-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
