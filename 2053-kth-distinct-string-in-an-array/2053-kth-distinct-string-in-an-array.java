@@ -8,6 +8,7 @@ class Solution {
                 if(i==j) continue;
                 if(arr[i].equals(arr[j])){
                     flag = 1;
+                    break;
                 }
             }
             if(flag==0) count++;
