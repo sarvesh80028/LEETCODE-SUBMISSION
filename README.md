@@ -13,6 +13,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1200-minimum-absolute-difference) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -182,4 +183,12 @@
 | [0086-partition-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0328-odd-even-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
