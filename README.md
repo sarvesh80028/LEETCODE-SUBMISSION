@@ -38,6 +38,7 @@
 | [0680-valid-palindrome-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1108-defanging-an-ip-address) |
 | [1844-replace-all-digits-with-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1844-replace-all-digits-with-characters) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2124-check-if-all-as-appears-before-all-bs) |
