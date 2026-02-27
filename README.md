@@ -161,6 +161,7 @@
 | [0086-partition-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0680-valid-palindrome-ii) |
@@ -173,6 +174,7 @@
 | [0203-remove-linked-list-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
 ## Geometry
@@ -195,6 +197,7 @@
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0328-odd-even-linked-list) |
 ## Sliding Window
 |  |
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
