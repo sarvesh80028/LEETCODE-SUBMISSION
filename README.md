@@ -100,6 +100,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -115,11 +116,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -194,6 +197,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
