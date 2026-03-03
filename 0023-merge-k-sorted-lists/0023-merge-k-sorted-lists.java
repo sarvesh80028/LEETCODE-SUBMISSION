@@ -14,8 +14,8 @@ class Solution {
         if(lists.length==1) return lists[0];
         ArrayList<ListNode>list1 = new ArrayList<>();
         ArrayList<ListNode>list2 = new ArrayList<>();
-        for(ListNode n:lists){
-            list1.add(n);
+        for(int i=0;i<lists.length;i++){
+            list1.add(lists[i]);
         }
         while(list1.size() + list2.size()>1){
             while(list1.size()>1){
