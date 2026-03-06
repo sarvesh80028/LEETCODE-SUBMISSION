@@ -2,8 +2,10 @@ class Solution {
     public int findLucky(int[] arr) {
         int max = -1;
         int n = arr.length;
+        Arrays.sort(arr);
         int count = 0;
         for(int i=0;i<n;i++){
+            if(i>0 && arr[i]==arr[i-1]) continue;
             count = 0;
             for(int j=0;j<n;j++){
                 if(arr[i]==arr[j]) count++;
