@@ -18,6 +18,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2206-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2206-divide-array-into-equal-pairs) |
