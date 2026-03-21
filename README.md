@@ -31,6 +31,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3467-transform-array-by-parity) |
 | [3637-trionic-array-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3701-compute-alternating-sum) |
 ## String
@@ -68,6 +69,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3467-transform-array-by-parity](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2206-divide-array-into-equal-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2833-furthest-point-from-origin) |
+| [3467-transform-array-by-parity](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
