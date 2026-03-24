@@ -43,6 +43,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1108-defanging-an-ip-address) |
 | [1844-replace-all-digits-with-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1844-replace-all-digits-with-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
