@@ -33,6 +33,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2951-find-the-peaks) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3467-transform-array-by-parity) |
 | [3637-trionic-array-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3637-trionic-array-i) |
@@ -132,6 +133,7 @@
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3701-compute-alternating-sum) |
 ## Divide and Conquer
 |  |
@@ -181,6 +184,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2544-alternating-digit-sum) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
