@@ -6,6 +6,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
@@ -86,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -269,4 +271,8 @@
 | [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
