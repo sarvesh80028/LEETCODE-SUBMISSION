@@ -59,6 +59,7 @@
 | [2833-furthest-point-from-origin](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3340-check-balanced-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3340-check-balanced-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3701-compute-alternating-sum) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0680-valid-palindrome-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0680-valid-palindrome-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
