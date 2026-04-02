@@ -49,6 +49,7 @@
 | [0520-detect-capital](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1108-defanging-an-ip-address) |
 | [1844-replace-all-digits-with-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1844-replace-all-digits-with-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -279,4 +280,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
