@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0680-valid-palindrome-ii) |
@@ -210,6 +211,7 @@
 | [0086-partition-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0392-is-subsequence) |
