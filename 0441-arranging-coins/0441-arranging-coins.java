@@ -2,7 +2,7 @@ class Solution {
     public int arrangeCoins(int n) {
         int x = n;
         int count = 0;
-        for(int i=1;i<=x;i++){
+        for(int i=1;i<=n;i++){
             if(n>=i){
                 n = n-i;
                 count++;
