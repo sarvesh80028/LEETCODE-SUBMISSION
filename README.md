@@ -69,6 +69,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -192,6 +193,7 @@
 | [0326-power-of-three](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2180-count-integers-with-even-digit-sum) |
