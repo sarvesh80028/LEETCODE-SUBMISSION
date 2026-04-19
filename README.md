@@ -24,6 +24,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -81,6 +82,7 @@
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -238,6 +240,7 @@
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0680-valid-palindrome-ii) |
 | [1089-duplicate-zeros](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1089-duplicate-zeros) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
