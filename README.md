@@ -29,6 +29,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -144,6 +145,7 @@
 | [0605-can-place-flowers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0680-valid-palindrome-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3745-maximize-expression-of-three-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3745-maximize-expression-of-three-elements) |
