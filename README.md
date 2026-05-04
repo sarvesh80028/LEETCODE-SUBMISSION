@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
@@ -200,6 +201,7 @@
 | [0002-add-two-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
@@ -316,4 +318,8 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
