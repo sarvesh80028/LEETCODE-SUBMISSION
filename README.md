@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
@@ -81,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
