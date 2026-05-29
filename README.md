@@ -46,6 +46,7 @@
 | [2951-find-the-peaks](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2951-find-the-peaks) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3467-transform-array-by-parity) |
 | [3637-trionic-array-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3701-compute-alternating-sum) |
@@ -223,6 +224,7 @@
 | [2544-alternating-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2544-alternating-digit-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3783-mirror-distance-of-an-integer) |
