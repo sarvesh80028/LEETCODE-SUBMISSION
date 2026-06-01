@@ -1,6 +1,6 @@
 class Solution {
     public int minimumCost(int[] cost) {
-        Arrays.sort(cost);
+         Arrays.sort(cost);
         int mrp = 0;
         int n = cost.length;
         int a = 0;
