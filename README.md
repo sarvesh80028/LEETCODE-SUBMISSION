@@ -59,6 +59,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0459-repeated-substring-pattern) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
