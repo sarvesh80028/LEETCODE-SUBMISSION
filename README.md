@@ -51,6 +51,7 @@
 | [3637-trionic-array-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
 |  |
@@ -108,6 +109,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
@@ -126,6 +128,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
