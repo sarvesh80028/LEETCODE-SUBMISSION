@@ -14,6 +14,7 @@
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
@@ -104,6 +105,7 @@
 | [0147-insertion-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +127,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1748-sum-of-unique-elements) |
@@ -146,6 +149,7 @@
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
