@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
@@ -104,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
@@ -127,6 +130,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
