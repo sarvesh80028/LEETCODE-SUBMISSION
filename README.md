@@ -28,6 +28,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -344,6 +345,7 @@
 | [0303-range-sum-query-immutable](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
