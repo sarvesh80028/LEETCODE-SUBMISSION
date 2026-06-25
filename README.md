@@ -11,6 +11,7 @@
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0303-range-sum-query-immutable) |
@@ -240,6 +241,7 @@
 | [0048-rotate-image](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
@@ -261,6 +263,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0204-count-primes) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2951-find-the-peaks](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -370,4 +373,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0303-range-sum-query-immutable) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
