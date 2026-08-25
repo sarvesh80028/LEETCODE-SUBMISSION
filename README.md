@@ -60,6 +60,7 @@
 | [3637-trionic-array-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
@@ -154,6 +155,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
