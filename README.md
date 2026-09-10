@@ -12,6 +12,7 @@
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0283-move-zeroes) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
