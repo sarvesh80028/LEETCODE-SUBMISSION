@@ -15,6 +15,7 @@
 | [0152-maximum-product-subarray](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
@@ -122,6 +124,7 @@
 | [0147-insertion-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1200-minimum-absolute-difference) |
@@ -147,6 +150,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
@@ -172,6 +176,7 @@
 | [0029-divide-two-integers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2206-divide-array-into-equal-pairs) |
@@ -257,6 +262,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0415-add-strings) |
