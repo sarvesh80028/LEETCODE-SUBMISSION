@@ -26,9 +26,7 @@ class Solution {
                 }
                 i++;
             }
-            // if(i<j && j==n-1 && map.size()==3){
-            //     j = n-2;
-            // }
+            
             j++;
             
            
