@@ -91,6 +91,7 @@
 | [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1108-defanging-an-ip-address) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1844-replace-all-digits-with-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1844-replace-all-digits-with-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -160,6 +161,7 @@
 | [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0930-binary-subarrays-with-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -371,6 +373,7 @@
 | [0904-fruit-into-baskets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Prefix Sum
