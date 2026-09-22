@@ -84,6 +84,7 @@
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0657-robot-return-to-origin) |
@@ -155,6 +156,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
@@ -368,6 +370,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0904-fruit-into-baskets) |
