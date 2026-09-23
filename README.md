@@ -33,6 +33,7 @@
 | [1089-duplicate-zeros](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -163,6 +164,7 @@
 | [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1748-sum-of-unique-elements) |
@@ -278,6 +280,7 @@
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0633-sum-of-square-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1492-the-kth-factor-of-n](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1492-the-kth-factor-of-n) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -376,6 +379,7 @@
 | [0904-fruit-into-baskets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -387,6 +391,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
