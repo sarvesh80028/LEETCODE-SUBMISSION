@@ -26,6 +26,7 @@
 | [0605-can-place-flowers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0904-fruit-into-baskets) |
