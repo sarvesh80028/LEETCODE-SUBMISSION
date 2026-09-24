@@ -69,6 +69,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3467-transform-array-by-parity) |
+| [3477-fruits-into-baskets-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3701-compute-alternating-sum) |
@@ -130,6 +131,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -244,6 +246,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -447,4 +450,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0014-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
