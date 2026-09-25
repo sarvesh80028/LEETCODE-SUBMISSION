@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
@@ -141,6 +142,7 @@
 | [0148-sort-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1200-minimum-absolute-difference) |
@@ -170,6 +172,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0904-fruit-into-baskets) |
@@ -205,6 +208,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1748-sum-of-unique-elements) |
@@ -389,6 +393,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0904-fruit-into-baskets) |
