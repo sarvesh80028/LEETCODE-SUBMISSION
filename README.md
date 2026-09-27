@@ -106,6 +106,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1844-replace-all-digits-with-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -130,6 +131,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -409,6 +411,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Prefix Sum
 |  |
@@ -423,6 +426,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Stack
 |  |
 | ------- |
