@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
@@ -476,4 +478,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
