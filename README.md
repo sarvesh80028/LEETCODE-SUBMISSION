@@ -87,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
@@ -371,6 +372,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0392-is-subsequence) |
@@ -481,5 +483,10 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
