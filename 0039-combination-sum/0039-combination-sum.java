@@ -1,8 +1,8 @@
 class Solution {
-    public List<List<Integer>> combinationSum(int[] nums, int target) {
-        List<List<Integer>>result = new ArrayList<>();
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<Integer>current = new ArrayList<>();
-        ans(0,target,nums,current,result);
+        List<List<Integer>>result = new ArrayList<>();
+        ans(0,target,candidates,current,result);
         return result;
     }
     private void ans(int i,int target,int[]nums,List<Integer>current,List<List<Integer>>result){
@@ -17,6 +17,8 @@ class Solution {
             ans(i,target-nums[i],nums,current,result);
             current.remove(current.size()-1);
         }
+        // if(current.size()>0) current.remove(current.size()-1);
+        
         ans(i+1,target,nums,current,result);
     }
 }
