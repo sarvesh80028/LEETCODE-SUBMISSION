@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0078-subsets) |
@@ -487,6 +488,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
