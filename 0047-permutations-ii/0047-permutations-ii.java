@@ -3,7 +3,7 @@ class Solution {
         HashSet<List<Integer>>result = new HashSet<>();
         List<Integer>current = new ArrayList<>();
         boolean[]used = new boolean[nums.length];
-        
+        Arrays.sort(nums);
         ans(nums,used,current,result);
         return new ArrayList<>(result);
     }
@@ -13,7 +13,8 @@ class Solution {
             return;
         }
         for(int i=0;i<nums.length;i++){
-            
+            if(used[i]) continue;
+            if(i>0 && nums[i]==nums[i-1] && !used[i-1]) continue;
             if(!used[i]){
                 current.add(nums[i]);
                 used[i] = true;
