@@ -93,6 +93,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0038-count-and-say) |
@@ -443,6 +444,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -503,5 +505,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
