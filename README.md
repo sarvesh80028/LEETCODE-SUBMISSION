@@ -36,6 +36,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0904-fruit-into-baskets) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0682-baseball-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -447,6 +449,7 @@
 | [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
 |  |
