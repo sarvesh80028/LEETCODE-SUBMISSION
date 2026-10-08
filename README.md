@@ -29,6 +29,7 @@
 | [0303-range-sum-query-immutable](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0594-longest-harmonious-subsequence) |
@@ -449,6 +450,7 @@
 | [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
@@ -510,4 +512,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
