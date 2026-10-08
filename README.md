@@ -29,6 +29,7 @@
 | [0303-range-sum-query-immutable](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
@@ -187,6 +188,7 @@
 | [0268-missing-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0594-longest-harmonious-subsequence) |
@@ -450,6 +452,7 @@
 | [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -515,5 +518,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
