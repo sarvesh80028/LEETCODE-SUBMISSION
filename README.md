@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0048-rotate-image) |
@@ -347,6 +348,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -388,6 +390,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0392-is-subsequence) |
@@ -450,6 +453,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
@@ -518,6 +522,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
