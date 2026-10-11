@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
@@ -458,6 +459,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
@@ -529,8 +531,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
