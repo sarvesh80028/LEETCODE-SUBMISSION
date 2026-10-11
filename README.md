@@ -63,6 +63,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -463,6 +464,7 @@
 | [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
 |  |
@@ -530,4 +532,5 @@
 | [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
