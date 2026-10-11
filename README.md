@@ -460,6 +460,7 @@
 | [0020-valid-parentheses](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0496-next-greater-element-i) |
@@ -485,6 +486,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0303-range-sum-query-immutable) |
 ## Number Theory
 |  |
