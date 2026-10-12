@@ -61,6 +61,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1748-sum-of-unique-elements) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -271,6 +272,7 @@
 | [0415-add-strings](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -328,6 +330,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1492-the-kth-factor-of-n](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1492-the-kth-factor-of-n) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -386,6 +389,7 @@
 | [0326-power-of-three](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Geometry
 |  |
 | ------- |
@@ -542,4 +546,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
