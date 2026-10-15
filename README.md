@@ -81,6 +81,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2951-find-the-peaks) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -215,6 +216,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -512,6 +514,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -556,4 +559,8 @@
 | [0225-implement-stack-using-queues](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
