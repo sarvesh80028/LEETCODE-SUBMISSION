@@ -111,6 +111,7 @@
 | [0125-valid-palindrome](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0424-longest-repeating-character-replacement) |
@@ -537,6 +538,7 @@
 | [0078-subsets](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -573,6 +575,7 @@
 | [0101-symmetric-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -581,6 +584,7 @@
 | [0101-symmetric-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -589,6 +593,7 @@
 | [0101-symmetric-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
