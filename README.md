@@ -580,6 +580,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -592,6 +593,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -604,6 +606,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -611,4 +614,8 @@
 | [0101-symmetric-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
