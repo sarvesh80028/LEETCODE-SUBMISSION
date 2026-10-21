@@ -586,6 +586,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -601,6 +602,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -619,6 +621,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -636,4 +639,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
