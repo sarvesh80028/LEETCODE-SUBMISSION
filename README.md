@@ -586,6 +586,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
@@ -604,6 +605,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
@@ -624,6 +626,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
@@ -647,14 +650,17 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
