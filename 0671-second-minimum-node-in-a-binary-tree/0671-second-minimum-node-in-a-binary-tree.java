@@ -15,21 +15,23 @@
  */
 class Solution {
     public int findSecondMinimumValue(TreeNode root) {
-        ArrayList<Integer>arr = new ArrayList<>();
-        inorder(root,arr);
-        int flag = 0, ans = 0;
+        ArrayList<Integer> arr = new ArrayList<>();
+        inorder(root, arr);
         int min = Integer.MAX_VALUE;
         int n = arr.size();
         Collections.sort(arr);
-        for(int i=0;i<n-1;i++){
-            if(arr.get(i)<arr.get(i+1)) return arr.get(i+1);
+        for (int i = 0; i < n - 1; i++) {
+            if (arr.get(i) < arr.get(i + 1))
+                return arr.get(i + 1);
         }
         return -1;
     }
-    private void inorder(TreeNode root,ArrayList<Integer>arr){
-        if(root==null) return;
-        inorder(root.left,arr);
+
+    private void inorder(TreeNode root, ArrayList<Integer> arr) {
+        if (root == null)
+            return;
+        inorder(root.left, arr);
         arr.add(root.val);
-        inorder(root.right,arr);
+        inorder(root.right, arr);
     }
 }
