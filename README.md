@@ -598,6 +598,7 @@
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -620,6 +621,7 @@
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -645,6 +647,7 @@
 | [0257-binary-tree-paths](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
