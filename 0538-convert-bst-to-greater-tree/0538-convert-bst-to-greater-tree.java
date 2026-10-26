@@ -15,15 +15,11 @@
  */
 class Solution {
     public TreeNode convertBST(TreeNode root) {
+        if(root==null) return null;
         ArrayList<TreeNode>arr = new ArrayList<>();
         inorder(root,arr);
-        int temp = 0;
-        // int sum = 0;
-        int n = arr.size();
-        for(int i=n-1;i>=0;i--){
-            temp+= arr.get(i).val;
-            arr.get(i).val = temp;
-            // sum = temp;
+        for(int i=arr.size()-2;i>=0;i--){
+            arr.get(i).val = arr.get(i).val + arr.get(i+1).val;
         }
         return root;
     }
