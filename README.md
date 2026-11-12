@@ -85,6 +85,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/2951-find-the-peaks) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarvesh80028/LEETCODE-SUBMISSION/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
